@@ -179,8 +179,8 @@ print(tokenizer.decode(token_ids=output[0], skip_special_tokens=True))
 ## Contact
 If you encounder any issues, please reach out to us at:
 
-easc@itu.dk 
+emil@rye-ai.com 
 
-mwki@itu.dk
+mikkel@rye-ai.com
 
-nicla@itu.dk
+nicolaj@rye-ai.com
